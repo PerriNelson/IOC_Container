@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOC_Container", "IOC_Container\IOC_Container.csproj", "{E18FEC80-FF8D-4B96-93B6-65331CE73FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOC_Container_Tests", "IOC_Container_Tests\IOC_Container_Tests.csproj", "{A5D8785A-CC1D-4800-BA51-F898381CB677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{1F8CD54C-65D8-4288-82D1-5C5FA03FA2D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18FEC80-FF8D-4B96-93B6-65331CE73FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18FEC80-FF8D-4B96-93B6-65331CE73FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18FEC80-FF8D-4B96-93B6-65331CE73FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18FEC80-FF8D-4B96-93B6-65331CE73FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D8785A-CC1D-4800-BA51-F898381CB677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D8785A-CC1D-4800-BA51-F898381CB677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D8785A-CC1D-4800-BA51-F898381CB677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D8785A-CC1D-4800-BA51-F898381CB677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8CD54C-65D8-4288-82D1-5C5FA03FA2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8CD54C-65D8-4288-82D1-5C5FA03FA2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8CD54C-65D8-4288-82D1-5C5FA03FA2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8CD54C-65D8-4288-82D1-5C5FA03FA2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
